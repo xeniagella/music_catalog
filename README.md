@@ -22,7 +22,7 @@ python gui.py
 - test_models.py, test_analytics.py — тесты
 
 ## Скриншоты
-![Пример интерфейса](C:\Users\Asus\PycharmProjects\PythonProjectAttestation\Screenshot.PNG)
+![Пример интерфейса](Screenshot.PNG)
 
 ## Инструкция по работе с Git (ДЗ)
 
