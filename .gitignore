@@ -1,0 +1,21 @@
+# Игнорировать виртуальные окружения
+venv/
+.env/
+
+# Игнорировать базы данных
+music_store.db
+
+# Игнорировать файлы IDE и редактора
+.idea/
+*.iml
+*.pyc
+pycache/
+
+# Игнорировать лог-файлы
+*.log
+
+# Игнорировать другие системные файлы, если есть
+.DS_Store
+Thumbs.db
+
+C:\Users\Asus\PycharmProjects\PythonProjectAttestation
